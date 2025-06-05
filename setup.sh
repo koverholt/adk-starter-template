@@ -12,4 +12,4 @@ source ~/.bashrc
 ${PYTHON_PREFIX}/bin/pip install -r requirements.txt
 
 # Run app
-${PYTHON_PREFIX}/bin/adk web
+${PYTHON_PREFIX}/bin/adk web --port 8080
